@@ -1,4 +1,4 @@
-# Yaruzoku 🫐
+# Yaruzoku 🩵
 
 ### Computer Science Student · Aspiring Malware Analyst
 
