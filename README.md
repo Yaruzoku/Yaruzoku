@@ -9,7 +9,6 @@ I'm a computer science student focused on **malware analysis, Windows internals,
 * Malware analysis & triage
 * Windows PE internals
 * Static & dynamic analysis
-* Reverse engineering
 * YARA & detection engineering
 * Windows APIs & Sysinternals
 * Security automation
@@ -20,10 +19,7 @@ I'm a computer science student focused on **malware analysis, Windows internals,
 * Python scripting & automation
 * PowerShell & Bash
 * Security tooling & CLI development
-* Data analysis & validation
-* Technical documentation & reporting
 * Virtualization & lab environments
-* Git & version control
 
 ## Selected Projects
 
