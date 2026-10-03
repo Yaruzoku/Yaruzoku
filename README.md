@@ -1,4 +1,4 @@
-# Yaruzoku
+# Yaruzoku 🫐
 
 ### Computer Science Student · Aspiring Malware Analyst
 
@@ -13,6 +13,17 @@ I'm a computer science student focused on **malware analysis, Windows internals,
 * YARA & detection engineering
 * Windows APIs & Sysinternals
 * Security automation
+* Cybersecurity & defensive security
+* Threat detection & IOC analysis
+* Windows & Linux systems
+* System administration & troubleshooting
+* Python scripting & automation
+* PowerShell & Bash
+* Security tooling & CLI development
+* Data analysis & validation
+* Technical documentation & reporting
+* Virtualization & lab environments
+* Git & version control
 
 ## Selected Projects
 
@@ -38,14 +49,6 @@ Windows · Linux · VirtualBox · Git · GitHub · JSON · CLI
 * Google Cybersecurity Certificate — **[Completed](https://coursera.org/share/1e4eb5a7b2d3b8cd355f90919c440a98)**
 * Practical Malware Analysis & Triage (PMAT) — **Planned**
 * Practical Malware Research Professional (PMRP) — **Planned**
-
-## Currently Learning
-
-* x86/x64 assembly
-* Windows internals
-* Debugging and reverse engineering
-* Advanced PE analysis
-* Malware detection engineering
 
 ## Direction
 
