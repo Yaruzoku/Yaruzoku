@@ -53,7 +53,3 @@ Windows · Linux · VirtualBox · Git · GitHub · JSON · CLI
 ## Direction
 
 Working toward a career in **malware analysis / malware research**, with an emphasis on practical analysis, reverse engineering, and detection.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/kristýna-broučková-130820385/)
