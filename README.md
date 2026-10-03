@@ -43,7 +43,7 @@ YARA · VirusTotal · ANY.RUN · PEStudio · Intezer · Sysinternals
 
 **Systems & Development**
 Windows · Linux · VirtualBox · Git · GitHub · JSON · CLI
-
+ 
 ## Certifications
 
 * Google Cybersecurity Certificate — **[Completed](https://coursera.org/share/1e4eb5a7b2d3b8cd355f90919c440a98)**
