@@ -1,16 +1,56 @@
-## Hi there 👋
+# Yaruzoku
 
-<!--
-**Yaruzoku/Yaruzoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student · Aspiring Malware Analyst
 
-Here are some ideas to get you started:
+I'm a computer science student focused on **malware analysis, Windows internals, and defensive security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+* Malware analysis & triage
+* Windows PE internals
+* Static & dynamic analysis
+* Reverse engineering
+* YARA & detection engineering
+* Windows APIs & Sysinternals
+* Security automation
+
+## Selected Projects
+
+**[IOCYRA](https://github.com/Yaruzoku/IOCYRA)**
+Discord security bot for analyzing suspicious files, URLs, hashes, and other threat indicators. 
+
+**[YARA Scanner](https://github.com/Yaruzoku/YARA-scanner)**
+Python-based YARA scanner featuring recursive rule discovery, SHA-256 hashing, entropy analysis, MIME detection, severity classification, exclusions, JSON output, progress tracking, and a GUI.
+
+## Toolbox
+
+**Languages**
+Python · Java · PowerShell · Bash
+
+**Malware & Security**
+YARA · VirusTotal · ANY.RUN · PEStudio · Intezer · Sysinternals
+
+**Systems & Development**
+Windows · Linux · VirtualBox · Git · GitHub · JSON · CLI
+
+## Certifications
+
+* Google Cybersecurity Certificate — **[Completed](https://coursera.org/share/1e4eb5a7b2d3b8cd355f90919c440a98)**
+* Practical Malware Analysis & Triage (PMAT) — **Planned**
+* Practical Malware Research Professional (PMRP) — **Planned**
+
+## Currently Learning
+
+* x86/x64 assembly
+* Windows internals
+* Debugging and reverse engineering
+* Advanced PE analysis
+* Malware detection engineering
+
+## Direction
+
+Working toward a career in **malware analysis / malware research**, with an emphasis on practical analysis, reverse engineering, and detection.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/kristýna-broučková-130820385/)
